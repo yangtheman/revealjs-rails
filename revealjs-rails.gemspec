@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["yang@yangtheman.com"]
   spec.summary       = %q{Reveal.js for Rails 4.0 or higher}
   spec.description   = %q{Reveal.js for Rails 4.0 or higher}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/yangtheman/revealjs-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
